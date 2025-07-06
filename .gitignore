@@ -1,0 +1,22 @@
+# Ignora el entorno virtual
+venv/
+
+# Archivos de configuración de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de logs
+*.log
+
+# Entornos virtuales alternativos
+.env/
+.env.bak/
+.venv/
+
+# Archivos del sistema o editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
